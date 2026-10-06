@@ -1,0 +1,6 @@
+{
+  "name": "Phone Dialer & Vault",
+  "description": "Minimalist phone dialer app with a stealth encrypted photo vault and decoy privacy mode unlocked via secret dialing codes.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
